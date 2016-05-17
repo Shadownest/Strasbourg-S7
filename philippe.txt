@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-j'en peux plus de mes voisins 
-=======
 j'en peux plus de mes voisins
-Pourquoi tu dis ça ?
->>>>>>> 069ba6994c1a961566c636fa5b78c8f74a5e5b16
