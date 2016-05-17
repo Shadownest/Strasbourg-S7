@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Pourquoi tu lis ça ?
 Ferme ça
+=======
+Pourquoi tu lis ça ? PArceqqqquuueee 
+>>>>>>> f8338a97638fe27a4112649483c679553c522110
